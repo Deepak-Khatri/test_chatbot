@@ -2,3 +2,6 @@ langchain_core
 langchain_openai
 langgraph
 typing
+streamlit
+psycopg[binary,pool]
+python-dotenv
