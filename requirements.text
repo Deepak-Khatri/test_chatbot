@@ -1,7 +1,6 @@
+streamlit
 langchain-core
 langchain-openai
 langgraph
-typing
-streamlit
 psycopg[binary,pool]
 python-dotenv
